@@ -1,0 +1,6 @@
+pandas
+neo4j-rust-ext
+jupyter
+ipykernel
+pyarrow
+fastparquet
