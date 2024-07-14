@@ -3,8 +3,8 @@ import pandas as pd
 import csv
 
 # Define the directory containing Parquet files
-parquet_dir = '/Users/ali.shamsaddinlou/Documents/codes/grepx/mp1_graphrag_neo4j/output/20240713-191603/artifacts'
-csv_dir = '/Users/ali.shamsaddinlou/Documents/neo4j-community-5.21.2/import'
+parquet_dir = '~/grepx/mp1_graphrag_neo4j/output/20240713-191603/artifacts'
+csv_dir = '~/neo4j-community-5.21.2/import'
 
 # Function to clean and properly format the string fields
 def clean_quotes(value):
