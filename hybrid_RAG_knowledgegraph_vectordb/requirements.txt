@@ -7,3 +7,5 @@ llama-index-embeddings-together
 nest_asyncio
 ipython
 python-dotenv
+requests
+llama-index-readers-file
