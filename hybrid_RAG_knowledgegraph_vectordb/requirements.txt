@@ -9,3 +9,4 @@ ipython
 python-dotenv
 requests
 llama-index-readers-file
+weaviate-client 
