@@ -96,4 +96,8 @@ Prompt engineering:  https://github.com/aishwaryanr/awesome-generative-ai-guide/
 RAG app with vector db: https://learn.deeplearning.ai/courses/building-applications-vector-databases/lesson/1/introduction
 
 ### Fine-tuning
+fine tuning course:  https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/6/training-
+
+fine tuning review:  https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week3_finetuning_llms.md
+
 
