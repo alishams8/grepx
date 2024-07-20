@@ -77,6 +77,7 @@ Embeddings, such as Word2Vec or GloVe, address these issues by representing word
 
 ![LLM apps](pic/AIEngineeringtable.jpeg)
 
+![LLM apps](pic/llmapps.jpeg)
 
 
 ## Nice links:
