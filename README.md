@@ -73,6 +73,11 @@ Sparse Representations: The vectors are sparse, containing mostly zeros, which c
 Advantages of Embeddings
 Embeddings, such as Word2Vec or GloVe, address these issues by representing words in dense, lower-dimensional vectors. These vectors capture semantic relationships between words, allowing for more efficient and meaningful computations. For instance, in an embedding space, similar words are located closer together, enabling models to better understand context and improve overall performance in natural language processing tasks.
 
+## Different types of LLM apps for AI engineers
+
+![LLM apps](pic/AIEngineeringtable.jpeg)
+
+
 
 ## Nice links:
 
@@ -80,3 +85,4 @@ LLM stroy from zero to now: https://fullstackdeeplearning.com/llm-bootcamp/sprin
 Challenges with LLM applications: https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week1_part1_foundations.md
 Video training for prompt engineering: https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction
 Prompt engineering:  https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week2_prompting.md
+RAG app with vector db: https://learn.deeplearning.ai/courses/building-applications-vector-databases/lesson/1/introduction
