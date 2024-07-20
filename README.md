@@ -72,3 +72,8 @@ No Semantic Information: One-hot encoding treats each word as completely indepen
 Sparse Representations: The vectors are sparse, containing mostly zeros, which can be inefficient for many machine learning algorithms.
 Advantages of Embeddings
 Embeddings, such as Word2Vec or GloVe, address these issues by representing words in dense, lower-dimensional vectors. These vectors capture semantic relationships between words, allowing for more efficient and meaningful computations. For instance, in an embedding space, similar words are located closer together, enabling models to better understand context and improve overall performance in natural language processing tasks.
+
+
+## Nice links:
+
+https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/
