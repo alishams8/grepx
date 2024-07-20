@@ -82,8 +82,18 @@ Embeddings, such as Word2Vec or GloVe, address these issues by representing word
 
 ## Nice links:
 
+### llm story
 LLM stroy from zero to now: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/
+
 Challenges with LLM applications: https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week1_part1_foundations.md
+
+### prompt engineering
 Video training for prompt engineering: https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction
+
 Prompt engineering:  https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week2_prompting.md
+
+### Old School RAG with Vector DB
 RAG app with vector db: https://learn.deeplearning.ai/courses/building-applications-vector-databases/lesson/1/introduction
+
+### Fine-tuning
+
