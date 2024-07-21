@@ -100,4 +100,6 @@ fine tuning course:  https://learn.deeplearning.ai/courses/finetuning-large-lang
 
 fine tuning review:  https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week3_finetuning_llms.md
 
+nice link for fine-tuning: https://www.youtube.com/watch?v=eC6Hd1hFvos
+
 
