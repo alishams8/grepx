@@ -102,4 +102,6 @@ fine tuning review:  https://github.com/aishwaryanr/awesome-generative-ai-guide/
 
 nice link for fine-tuning: https://www.youtube.com/watch?v=eC6Hd1hFvos
 
+RAG with Langchain: https://learn.deeplearning.ai/courses/langchain/lesson/5/question-and-answer
+
 
