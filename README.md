@@ -108,6 +108,6 @@ nice link for fine-tuning: https://www.youtube.com/watch?v=eC6Hd1hFvos
 RAG with Langchain: https://learn.deeplearning.ai/courses/langchain/lesson/5/question-and-answer
 
 
-## langchain vs llamaindex
+## Langchain vs Llamaindex
 
 ![LLM apps](pic/langchainvsllamaindex.jpeg)
