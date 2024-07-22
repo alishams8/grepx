@@ -92,6 +92,9 @@ Video training for prompt engineering: https://learn.deeplearning.ai/courses/cha
 
 Prompt engineering:  https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/Applied_LLMs_Mastery_2024/week2_prompting.md
 
+## RAG
+![LLM apps](pic/RAG.jpeg)
+
 ### Old School RAG with Vector DB
 RAG app with vector db: https://learn.deeplearning.ai/courses/building-applications-vector-databases/lesson/1/introduction
 
