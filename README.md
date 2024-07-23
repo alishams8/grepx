@@ -79,6 +79,9 @@ Embeddings, such as Word2Vec or GloVe, address these issues by representing word
 
 ![LLM apps](pic/llmapps.jpeg)
 
+## Agentic Reasoning design pattern
+
+![LLM apps](pic/designpatterns.jpeg)
 
 ## Nice links:
 
