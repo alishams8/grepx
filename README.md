@@ -86,6 +86,10 @@ Embeddings, such as Word2Vec or GloVe, address these issues by representing word
 
 ![LLM apps](pic/designpatterns.jpeg)
 
+## flow engineering
+
+![Alphacodium](pic/flowengineering.jpeg)
+
 
 ## Nice links:
 
