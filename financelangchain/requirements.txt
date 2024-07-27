@@ -1,0 +1,5 @@
+python-dotenv
+yfinance
+langchain-groq
+langchain_core
+langchain
